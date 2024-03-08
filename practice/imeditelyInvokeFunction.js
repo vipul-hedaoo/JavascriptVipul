@@ -6,7 +6,7 @@
     console.log(`DB CONNECTED`);
 })();
 
-(function hello(name){
+(function hello(name) {
     console.log(`welcome ${name}`);
 })();
 
